@@ -1,36 +1,36 @@
 {
   "quizSrc": [
     {
-      "term": "What kind of lens do you suppose was used in this photo? A. wide angle B. wide angle C. ¨normal¨ or 50mm lens D. ¨normal¨ or 50mm lens E. long or telefoto lens F. long or telefoto lens",
-      "definition": "E. long or telefoto lens F. long or telefoto lens"
+      "term": "What kind of lens do you suppose was used in this photo? A. wide angle B. ¨normal¨ or 50mm lens C. long or telefoto lens",
+      "definition": "C. long or telefoto lens"
     },
     {
-      "term": "Identify the stylistic element of photography that is dominant in this photo: A. patterns B. patterns C. lines D. lines E. shapes F. shapes G. texture H. texture",
-      "definition": "C. lines D. lines"
+      "term": "Identify the stylistic element of photography that is dominant in this photo: A. patterns B. lines C. shapes D. texture",
+      "definition": "B. lines"
     },
     {
-      "term": "Identify the stylistic element of photography that is dominant in this photo: A. patterns B. patterns C. shapes D. shapes E. lines F. lines G. texture H. texture",
-      "definition": "G. texture H. texture"
+      "term": "Identify the stylistic element of photography that is dominant in this photo: A. patterns B. shapes C. lines D. texture",
+      "definition": "D. texture"
     },
     {
-      "term": "Identify the stylistic element of photography that is dominant in this photo: A. patterns B. patterns C. lines D. lines E. shapes F. shapes G. texture H. texture",
-      "definition": "A. patterns B. patterns"
+      "term": "Identify the stylistic element of photography that is dominant in this photo: A. patterns B. lines C. shapes D. texture",
+      "definition": "A. patterns"
     },
     {
-      "term": "Identify the stylistic element of photography that is dominant in this photo: A. rule of thirds B. rule of thirds C. symmetry D. symmetry E. color F. color G. cold light H. cold light",
-      "definition": "E. color F. color"
+      "term": "Identify the stylistic element of photography that is dominant in this photo: A. rule of thirds B. symmetry C. color D. cold light",
+      "definition": "C. color"
     },
     {
-      "term": "Identify the stylistic element of photography that is dominant in this photo: A. rule of thirds B. rule of thirds C. soft light D. soft light E. symmetry F. symmetry G. hard light H. hard light",
-      "definition": "E. symmetry F. symmetry"
+      "term": "Identify the stylistic element of photography that is dominant in this photo: A. rule of thirds B. soft light C. symmetry D. hard light",
+      "definition": "C. symmetry"
     },
     {
-      "term": "Identify the stylistic element of photography that is dominant in this photo: A. hard light B. hard light C. soft light D. soft light E. cool light F. cool light G. warm light H. warm light",
-      "definition": "A. hard light B. hard light"
+      "term": "Identify the stylistic element of photography that is dominant in this photo: A. hard light B. soft light C. cool light D. warm light",
+      "definition": "A. hard light"
     },
     {
-      "term": " A. rule of thirds B. rule of thirds C. soft light D. soft light E. hard light F. hard light G. cold light H. cold light",
-      "definition": "G. cold light H. cold light"
+      "term": "A. rule of thirds B. soft light C. hard light D. cold light",
+      "definition": "D. cold light"
     }
   ]
 }
