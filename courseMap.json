@@ -34,6 +34,16 @@
       "/branding-and-cx"
     ]
   },
+  "FIN306c": {
+    "status": "done",
+    "related": [
+      "/accounting-information-system",
+      "/asset-measurement-disclosure",
+      "/accounting-analysis-2-liabilities",
+      "/accounting-analysis-2-equity",
+      "/financial-reporting-capstone"
+    ]
+  },
   "CMC201c": {
     "status": "ongoing",
     "related": []
