@@ -2375,6 +2375,22 @@
     {
       "term": "Please refer to the instructions and the table in Question 1. You may also view it as a reading or download on a separate tab or browser. Enter the correct journal entry for part [B].",
       "definition": "5000"
+    },
+    {
+      "term": "This course consists of __ weekly modules. A. 2 B. 3 C. 4 D. 5",
+      "definition": "B. 3"
+    },
+    {
+      "term": "If I have a question about this course, I should: A. Email the instructor. B. Report it to the Coursera Learner Help Center or Content Issues forum. C. Call the instructor. D. Drop the class.",
+      "definition": "B. Report it to the Coursera Learner Help Center or Content Issues forum."
+    },
+    {
+      "term": "All learners in this course are required to purchase the textbook. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "What types of assessments can be found in this course? You can select more than one. A. Knowledge Check quizzes B. Peer Review exercise C. Reading summaries D. Module Review quizzes",
+      "definition": "A. Knowledge Check quizzes B. Peer Review exercise D. Module Review quizzes"
     }
   ]
 }
