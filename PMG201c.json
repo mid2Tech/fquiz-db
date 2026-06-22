@@ -1,20 +1,4 @@
 {
-  "quizUrls": [
-    "https://www.coursera.org/learn/project-planning/assignment-submission/Lgbz3/module-2-quiz",
-    "https://www.coursera.org/learn/project-planning/assignment-submission/eNyN4/module-3-quiz",
-    "https://www.coursera.org/learn/project-planning/assignment-submission/G1UnF/module-4-quiz",
-    "https://www.coursera.org/learn/project-planning/assignment-submission/iN7js/module-5-quiz",
-    "https://www.coursera.org/learn/project-planning/assignment-submission/T4KEX/final-exam",
-    "https://www.coursera.org/learn/schedule-projects/assignment-submission/TgJP8/module-2-quiz",
-    "https://www.coursera.org/learn/schedule-projects/assignment-submission/v8agT/module-3-quiz",
-    "https://www.coursera.org/learn/schedule-projects/assignment-submission/x8ob7/module-4-quiz",
-    "https://www.coursera.org/learn/schedule-projects/assignment-submission/n9zVp/final-exam",
-    "https://www.coursera.org/learn/project-risk-management/assignment-submission/k7VaC/module-2-quiz",
-    "https://www.coursera.org/learn/project-risk-management/assignment-submission/OSt8i/module-3-quiz",
-    "https://www.coursera.org/learn/project-risk-management/assignment-submission/Z46xy/module-4-quiz",
-    "https://www.coursera.org/learn/project-risk-management/assignment-submission/W08Xd/final-exam"
-  ],
-  "strictQuizMode": true,
   "quizSrc": [
     {
       "term": "The PMBOK® Guide and in the preceding lesson describes 10 Project Management Knowledge Areas. Identify 3 out of the 10:",
