@@ -214,7 +214,7 @@
     ]
   },
   "MSM201c": {
-    "status": "out 😥",
+    "status": "out source",
     "related": [
       "/social-media-marketing-introduction",
       "/social-media-management",
@@ -313,7 +313,7 @@
     ]
   },
   "SSL101c": {
-    "status": "out 😥",
+    "status": "out soucre",
     "related": [
       "/digital-literacy",
       "/problem-solving-skills",
@@ -331,7 +331,7 @@
       "/engineering-practices-secure-software-quality"
     ]
   },
-  "SSC302c": {
+  "DPS201c": {
     "status": "done",
     "related": [
       "/public-speaking",
@@ -352,7 +352,7 @@
   },
 
   "WED201c": {
-    "status": "out 😥",
+    "status": "out source",
     "related": ["/html", "/introcss", "/javascript", "/responsivedesign"]
   },
   "WDU202c": {
