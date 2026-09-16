@@ -476,6 +476,338 @@
     {
       "term": "Revenue strategy should deliver four main aspects: Incorporate cost levers, Evaluate and optimize performance, Make optimal decisions for resource allocations, and Deliver growing profits. The basis of a strong revenue strategy starts with revenue management. Which 3 elements are key to effective revenue management? A. Segmentation, Forecasting and budgeting, Data base management B. Segmentation, Forecasting and budgeting, Pricing C. Yield management, Customer Loyalty policy, Inventory management",
       "definition": "B. Segmentation, Forecasting and budgeting, Pricing"
+    },
+    {
+      "term": "Analytics-based techniques in revenue management are used to help forecast consumer behavior at the hotel’s market level so as to be able to optimize room sales per night at an optimum price. A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "A practical example of revenue management in action is tailoring your room pricing in advance to fit future events, impactful weekends or seasons. A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Revenue management finds its roots in yield management pioneered by Robert Crandall for use in airlines. A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "In answer to deregulation and fierce competition, American Airlines developed yield management to include advance-purchase restriction, capacity control and non-refundable tickets. The result was that customers turned away from American Airlines causing a loss in profits for the company. A. False B. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "Crandall inspired Bill Marriott, CEO of Marriott International, to adopt and enhance yield management specifically for his hotel chain. Which of the following two methods did Marriott employ? A. Forecasting booking patterns and optimizing room availability by price and length of stay. B. Using intermediaries to handle Marriott bookings C. Targeted discounts based on demand",
+      "definition": "A. Forecasting booking patterns and optimizing room availability by price and length of stay. C. Targeted discounts based on demand"
+    },
+    {
+      "term": "Traditionally, travelers booked directly with “stay brands”, meaning hotels that competed with each other to attract guests. Now, the “booking brand” has become the dominant point of entry for consumers A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "A hotel’s marketing costs tend to rise as they both pay to obtain traffic from “booking brands” while at the same time competing with “stay brands”. A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Why is rate parity for bookings important for a hotel? (Please tick ALL that apply) A. Price parity is important because potential foreign guests will be confused by any difference B. It isn’t important because the priority is maximizing profit at any cost C. If a hotel has a higher price on its own brand website, the customer will be tempted to book through a third-party meaning that the hotel will have to pay a commission D. If a hotel has a lower price on its own brand website, it will run the risk of breaching the rules of price parity clauses in their OTA contracts",
+      "definition": "A. Price parity is important because potential foreign guests will be confused by any difference C. If a hotel has a higher price on its own brand website, the customer will be tempted to book through a third-party meaning that the hotel will have to pay a commission D. If a hotel has a lower price on its own brand website, it will run the risk of breaching the rules of price parity clauses in their OTA contracts"
+    },
+    {
+      "term": "Hotels are spending about 20%-30% of room revenue for customer acquisition before the customer even walks through the door. Which of the following isn’t included in the calculations of these costs? A. Sales and marketing costs B. Taxes C. Commissions D. Transaction fees",
+      "definition": "B. Taxes"
+    },
+    {
+      "term": "Individual hotels or small chains competing with each other to offer the lowest prices also often end up paying the highest commissions for those bookings. A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "PPTC means: A. Product, Price, Time, Customer B. Positioning, Price, Terms, Contract C. Product, Place, Time, Customer",
+      "definition": "C. Product, Place, Time, Customer"
+    },
+    {
+      "term": "Traditionally in the hotel marketplace two types of segmentation come to mind: yield/pricing segmentation and type of hotel segmentation A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Hotels typically start with four macro-level segments: transient, corporate, group and other. This segmentation can then be customized based on the location and other characteristics of the property. A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Hotels have looked to ______________ for inspiration in order to understand how to set up their online booking engine to offer special rates once a customer logs in based on that individual customer’s worth (per-customer stay and spend) to the hotel. A. Leisure parks B. Airlines C. Casinos",
+      "definition": "B. Airlines"
+    },
+    {
+      "term": "Constrained forecasting measures demand controlled by hotel capacity, which is the number of rooms that you have available in your hotel. It is used for: A. Financial purposes B. Pricing",
+      "definition": "B. Pricing"
+    },
+    {
+      "term": "What word is given to when demand outpaces supply for a given day for a given hotel? A. Depression B. Compression C. Transgression",
+      "definition": "B. Compression"
+    },
+    {
+      "term": "From a revenue manager’s perspective, if you’re able to forecast accurately you can then price effectively and optimize revenue. But what mistake should revenue managers avoid? A. Set budgeting to seasonal data B. Set pricing to forecasts C. Price to budget",
+      "definition": "C. Price to budget"
+    },
+    {
+      "term": "Initially hotels offered the same room and room types for the same prices every day of the year. This was called: A. Seasonal B. Single-rate pricing C. BAR",
+      "definition": "B. Single-rate pricing"
+    },
+    {
+      "term": "Which concept of pricing goes back to the business vs. leisure traveler split? A. Weekday/Weekend B. BAR-LOS C. Single-rate pricing",
+      "definition": "A. Weekday/Weekend"
+    },
+    {
+      "term": "____________________enables each channel and segment to be independently priced based on the latent demand for each of those channels and segments. A. Independent Pricing B. Open Pricing C. BBLOS",
+      "definition": "B. Open Pricing"
+    },
+     {
+      "term": "A hotel’s “______________” is the rate at which it is obtaining bookings A. pace B. pick-up",
+      "definition": "A. pace"
+    },
+    {
+      "term": "What should the revenue manager do if he/she starts to notice a specific customer segment beginning to have a higher volume of pick-up than they had forecast over a certain period of time? A. Offer discounts B. Raise prices C. Decrease prices",
+      "definition": "B. Raise prices"
+    },
+    {
+      "term": "Effective yielding is a hotel’s solution to optimize their revenues against their increasing costs. To maximize revenues over both high demand periods and need periods, what can be done? A. Shut down discount offers B. Increase internet presence C. Independently price every segment",
+      "definition": "C. Independently price every segment"
+    },
+    {
+      "term": "What would result if you closed out your discount offer? A. OTAs would no longer show your property on their lists B. A prospective high paying or long staying customer may not find you because he or she searched for that discount and it would show no availability C. Demand would rise because your hotel would be seen as selective",
+      "definition": "B. A prospective high paying or long staying customer may not find you because he or she searched for that discount and it would show no availability"
+    },
+    {
+      "term": "Open pricing enables you to leave discounts open during high demand periods, and lower the discount to capitalize on the demand. A. True B. False",
+      "definition": "B. False"
+    },
+     {
+      "term": "One of the most important things for a revenue manager to understand is how critical price and time are, and the sensitivity of both, because these allow you to really understand the customer and the consumer’s behavior. A. True B. false",
+      "definition": "A. True"
+    },
+    {
+      "term": "“The essence of revenue management analytics is in understanding consumers’ perception of product __________________________, and accurately aligning product____________, __________________and ___________________ within each customer segment.” Which of the following words does not belong to the statement? A. Life-cycle B. Value C. Availability D. Placement E. Prices",
+      "definition": "A. Life-cycle"
+    },
+    {
+      "term": "If you have multiple customers with different pricing characteristics in the same segment, you’re missing revenue. A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "There are two major types of segmentation: one for pricing and the other for marketing purposes. A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "What is the goal with segmentation? Which statement is not true? A. Categories of customers should not be drawn up depending on which actions you want to take but rather on which financial objectives you wish to achieve. (right answer) B. Different types of segmentation can be utilized as levers to control consumer actions – primarily purchasing or not purchasing a room at the hotel. C. Show an understanding of how you bucket together customer types to enable you then use these core groups to obtain more detailed segmentation.",
+      "definition": "A. Categories of customers should not be drawn up depending on which actions you want to take but rather on which financial objectives you wish to achieve. (right answer)"
+    },
+    {
+      "term": "The rise in Booking brands does not necessarily mean the end of Stay brands. Each has their strong point. Which of the following three words best define their respective strengths? A. Marketing B. Providing customer delight C. Being a central point of information D. producing customer experiences E. Producing customer loyalty",
+      "definition": "A. Marketing B. Providing customer delight C. Being a central point of information"
+    },
+    {
+      "term": "The cost of acquisition is one of the most important aspects of distribution, revenue management and segmentation. Understanding your costs enables you to: A. Minimize the rate that you can charge and minimize marketing costs B. Optimize the rate that you can charge and optimize your distribution strategy C. Maximize the rate that you can charge and maximize your segmentation",
+      "definition": "B. Optimize the rate that you can charge and optimize your distribution strategy"
+    },
+    {
+      "term": "The increase in complexity of the distribution landscape has two consequences for segmentation: Complications and Power. A. False B. True",
+      "definition": "B. True"
+    },
+      {
+        "term": "Hotels typically use two major types of segmentation: there’s the yielding segmentation that is geared towards pricing and then there is market segmentation that is more geared toward financial reporting. A. True B. False",
+        "definition": "A. True"
+      },
+      {
+        "term": "As a rule of thumb if there is a segment that consistently generates between _________ of your room nights or revenue, it makes sense for a hotel to separate it into its own segment. A. 8-15% B. 15-20% C. 1-5%",
+        "definition": "A. 8-15%"
+      },
+      {
+        "term": "To reach optimal segmentation, there are: A. 5 key considerations to take into account B. 2 key considerations to take into account C. 4 key considerations to take into account D. 3 key considerations to take into account",
+        "definition": "A. 5 key considerations to take into account"
+      },
+      {
+        "term": "A distribution channel is simply a channel to get people to hotels and may include hotel websites, online travel agencies, and wholesalers. Which two factors are important to cover? A. Evaluate your needs as a property – which distribution channels fill your property best B. Develop a strategy both for the present, short term and long term future C. Transport and infrastructure in the immediate area of your property",
+        "definition": "A. Evaluate your needs as a property – which distribution channels fill your property best B. Develop a strategy both for the present, short term and long term future"
+      },
+      {
+        "term": "A hotel can get huge exposure to consumers through online travel agencies and therefore they are a valuable player in the distribution value chain. What is key from the operational perspective? A. Converting a customer into a routine or loyal guest after that first stay purchased through an OTA B. return to the property in the future C. Selecting your OTA based on the lowest commission per first stay",
+        "definition": "A. Converting a customer into a routine or loyal guest after that first stay purchased through an OTA"
+      },
+      {
+        "term": "What is important when comparing price and behavior? A. Maintaining one price for all customer and market behaviors B. Maintaining prices that are different to market or consumer behavior C. Maintaining brand image",
+        "definition": "A. Maintaining one price for all customer and market behaviors B. Maintaining prices that are different to market or consumer behavior C. Maintaining brand image"
+      },
+      {
+        "term": "Hotels can’t entirely predict market behavior so they need to anticipate some prices, but they can’t just set prices without anticipating market behavior. Some customers will only buy on a good deal and others don’t care and will buy regardless of price. Analyzing how consumers come to channels, and their spend patterns, is a good way of determining this. Is this statement: A. True B. False",
+        "definition": "A. True"
+      },
+      {
+        "term": "There are three major questions to take into account when thinking about re-segmentation: 1) What type of business or mix of business does the hotel have? 2) Can you tell the booking age of each segment of customer, ADR, booking lead time? 3) Are your revenue and sales and marketing teams pricing and promotional strategies resulting in the hotel selling out the day of the stay? A. True B. False",
+        "definition": "A. True"
+      },
+      {
+        "term": "There are three key questions a hotel should ask itself to determine if they need to re-segment. Which one of the following isn’t included in these key questions? A. If yes, are you selling out day-off? B. Can you tell the mix of business that it has? If not, refer back to the circle of segmentation optimization. C. If yes, can you tell the booking behavior of each customer segment, ADR and booking lead-time? D. If yes, can you forecast what each business segment will bring to turnover and hotel profit?",
+        "definition": "D. If yes, can you forecast what each business segment will bring to turnover and hotel profit?"
+      },
+      {
+        "term": "There are three major efforts a hotel can make in order to best manage the changes arising from third-party distribution and re-connect with all customer segments. The third of these is:_________________acquisition costs and other key metrics to optimize distribution. A. Integrating B. Benchmarking C. Stabilizing",
+        "definition": "B. Benchmarking"
+      },
+     {
+      "term": "In the context of revenue management, forecasting means anticipating a certain amount of demand around specific customer segments and, in aggregate, an entire hotel property. A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "There are two major means of forecasting: (1) unconstrained forecasts or those controlled by capacity and (2) constrained forecasts or those not controlled by capacity. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "In terms of forecasting, variance is a comparison between two hotels in a typical hospitality year. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Forecast-to-budget variance gives you an indication of your forecasted performance (with current on the books production) versus what you budgeted and how far ahead or behind you are pacing. A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "When forecasting, compression is when supply exceeds demand and the result is a compressed market. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "What does RevPAR show? A. The revenue generated per customer segment B. The efficiency of the revenue compared to the number of customers who stay at the property C. The revolving rate of clients per price and per room",
+      "definition": "B. The efficiency of the revenue compared to the number of customers who stay at the property"
+    },
+    {
+      "term": "A property’s constrained forecast is demand controlled by capacity. A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Unconstrained forecast is total demand for the property if capacity is not a factor. In this instance, if a hotel sells its one hundred rooms, its unconstrained forecast would show the overall market demand for its property on a given night. A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "To track pace means: A. Monitoring the rapidity of hotel operations B. Monitoring the place an actual booking occurs, i.e. online or at the front desk C. Monitoring the number of customers booking over a given period of time",
+      "definition": "C. Monitoring the number of customers booking over a given period of time"
+    },
+     {
+      "term": "Badly forecasting or under-forecasting is detrimental to a hotel because it may lead to the hotel dropping rates and taking last-minute bookings through discount channels and thus paying high commissions. A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "In terms of forecasting and the results achieved from this, what do operations, revenue managers, and others at the property generally use as a health benchmark for the property? A. Inventory B. Development C. Staffing D. Performance",
+      "definition": "D. Performance"
+    },
+    {
+      "term": "Which of the following developing data points are being increasingly incorporated into the revenue management process? A. Customer gender B. Customer nationality C. Property-level booking data D. Weather E. Competitor pricing",
+      "definition": "A. Customer gender B. Customer nationality C. Property-level booking data D. Weather E. Competitor pricing"
+    },
+    {
+      "term": "One of the most correlated data points is between unconstrained demand forecast and web site traffic. A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Which two data points are factors to consider from a macro-level when forecasting a hotel? A. Monitoring competitor pricing B. Monitoring the price of air travel C. Monitoring online presence D. Monitoring inflation",
+      "definition": "A. Monitoring competitor pricing B. Monitoring the price of air travel D. Monitoring inflation"
+    },
+    {
+      "term": "Monitoring social review data carries with it a limitation: it can’t be tied to a specific customer segment so it is hard to have conclusive evidence of correlation with profita or forecasta. A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Like competitor pricing data and review data, air traffic and weather can’t be tied directly to a specific customer segment. A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Consumers typically book a hotel after they book air travel. What does this mean for hotels? A. It enables hotels to have insight into future increases or decreases in demand B. It enables hotels to contact the airlines and push sales with their offers",
+      "definition": "A. It enables hotels to have insight into future increases or decreases in demand"
+    },
+     {
+      "term": "Although Excel has traditionally been a lower-cost investment that could be managed in-house, it has its limitations. Select the most appropriate from the following. A. Latest technological advances are not continuously available as you have to wait until newer versions are developed and then distributed. B. A license has be purchased from the software provider C. The increasing complexity of data requires more powerful analytical engines D. In many cases, access to Excel spreadsheet is limited unless you are sitting at your computer",
+      "definition": "D. In many cases, access to Excel spreadsheet is limited unless you are sitting at your computer"
+    },
+    {
+      "term": "A key aspect of modern revenue strategy systems is they are built in true multi-tenant cloud architectures, allowing users to always use the most up-to-date version of the system.. A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "There are four major means or statistics to analyse your forecast accuracy. There are 3 of them included in the statements below: A. Simple error B. Mean absolute per cent error C. Complex error D. Simple per cent error",
+      "definition": "A. Simple error B. Mean absolute per cent error D. Simple per cent error"
+    },
+    {
+      "term": "Simple error often results in inflated forecast accuracy due to offsetting over- and under-forecasting. A. True B. False",
+      "definition": "A. True"
+    },
+    {
+      "term": "Your mean absolute deviation or MAD is defined as a means of calculating forecast accuracy by the absolute sum of your successes. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "Budgeting helps a hotel _____________ costs around strategies to execute forecasting. A. Control B. Input C. Delete",
+      "definition": "A. Control"
+    },
+    {
+      "term": "Which of the following statements is true? A. Understanding what the pulse is of your city enables you to understand how to plan for your budget B. The budgeting process is the same no matter what type of hotel you manage. C. Daily budgeting is not connected to the performance of your property",
+      "definition": "A. Understanding what the pulse is of your city enables you to understand how to plan for your budget"
+    },
+    {
+      "term": "For Economy Hotels simple forecasting using minimal segmentation is the expectation A. False B. True",
+      "definition": "B. True"
+    },
+    {
+      "term": "Monitoring Pick-Up A 600-room hotel on the stay-date of December 30 has OTB numbers, for the entire property, shown below: Date Property OTB October 19 20 October 29 411 Based on this 10-day pick-up, should the property yield up, lower, or keep the rates the same for the yieldable rates? A. Lower Rates B. Keep the rates the same C. Yield Rates Up",
+      "definition": "C. Yield Rates Up"
+    },
+    {
+      "term": "Monitoring Pace A 150-room hotel has demand numbers for the stay date of November 1, for the entire property, shown below: Date Demand September 14 Unconstrained Demand over 100 % September 21 Unconstrained Demand over 100 % Based on this Week-over-Week variance in demand, should the property yield up, lower or keep the rates the same for the yieldable rates? A. Yield Rates Up B. Lower Rates C. Keep Rates the same",
+      "definition": "A. Yield Rates Up"
+    },
+    {
+      "term": "Conversion Rate A 225-room hotel has property-direct Internet booking engine conversation for the stay of December 14, for the entire property, shown below: Conversion Rate Normal 5% Current 15% Based on this conversion rate, should you yield up, lower, or keep the rates the same for rates on your booking engine? A. Yield Rates Up B. Lower Rates C. Keep Rates the same",
+      "definition": "A. Yield Rates Up"
+    },
+    {
+      "term": "Group A 200-room hotel has group OTB numbers for the stay date of December 15, for group OTB, shown below, the property lost a wedding group: Date Group OTB August 15 50 August 22 10 Based on losing this large group block should you yield up, lower, or keep the rates the same for your yieldable rates? A. Yield Rates Up B. Lower Rates C. Keep Rates the same",
+      "definition": "B. Lower Rates"
+    },
+    {
+      "term": "LRA increase A 250-room hotel has corporate LRA OTB numbers for the stay date of December 21, for the entire property, shown below: Date Corporate LRA OTB August 7 20 August 14 150 Based on this large 7-day pick-up should you yield up, lower or keep the rates the same (and implement restrictions) for your corporate rates? A. Keep Rates the same B. Lower Rates C. Yield Rates Up",
+      "definition": "C. Yield Rates Up"
+    },
+    {
+      "term": "Monitoring Pace & Reputation A 150-room hotel has demand numbers for the stay date of November 1, for the entire property, shown below. Additionally the property has been ranked above the comp set on online review scores. Date Demand September 14 Unconstrained demand over 100% September 21 Unconstrained demand over 100% Based on this Week-over-Week variance in demand should the property yield up, lower, or keep the rates the same for the yieldable rates? A. Lower Rates B. Yield Rates Up C. Keep Rates the same",
+      "definition": "B. Yield Rates Up"
+    },
+    {
+      "term": "Transient A 200-room hotel has group OTB numbers for the stay date of December 15, for the transient segment, shown below. Note: the property is pacing to sell out and transient pick-up is average. Date Transient OTB August 15 75 August 22 90 Based on this data, should you yield-up, lower or keep the rates the same for your transient rates? A. Yield Rates Up B. Keep Rates the same C. Lower Rates",
+      "definition": "A. Yield Rates Up"
+    },
+    {
+      "term": "OTA A 225-room hotel has group OTB numbers for the stay date of December 22, for the OTA OTB, shown below. Note: the property is pacing to sell out and OTA pick-up is high. Date OTA OTB July 15 75 July 22 150 Based on this data should you yield up, lower or keep the rates the same for your OTA rates? A. Yield Rates Up B. Lower Rates C. Keep Rates the same",
+      "definition": "A. Yield Rates Up"
+    },
+    {
+      "term": "Corporate nLRA A 400-room hotel has a corporate nLRA OTB for the stay date of December 30, for the corporate OTB, shown below. Note: the hotel is forecasted to sell-out. Date nLRA OTB September 10 20 September 17 150 Based on this data, knowing you cannot yield rates, should you put a length-of-stay restriction on the corporate segment? A. Yes B. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Unexpected Group A 200-room hotel has group OTB numbers for the stay date of December 15, for group OTB, shown below; note this was not an expected group: Date Group OTB August 15 10 August 22 70 Based on losing this group pick-up, should you yield up, lower, or keep rates the same for you yieldable rates? A. Keep Rates the same B. Lower Rates C. Yield Up Rates",
+      "definition": "C. Yield Up Rates"
+    },
+    {
+      "term": "Expected Group A 200-room hotel has group OTB numbers for the stay date of March 15, for group OTB, shown below; note this was an expected group (meaning you forecasted the other segments knowing this group was coming): Date Group OTB January 2 10 January 16 50 Based on losing this group pick-up should you yield up, lower, or keep rates the same for your yieldable rates? A. Lower Rates B. Keep Rates the same C. Yield Up Rates",
+      "definition": "B. Keep Rates the same"
+    },
+    {
+      "term": "Cost Per Occupied Room On October 15, a 300-room hotel has a current price of $59 on their website for the stay date of November 22. Their cost per occupied room (or cleaning cost of the room) is $59. Based on this information, should the hotel consider lowering rates? A. Yes B. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Monitoring demand A 150-room hotel has demand numbers for the stay date of November 1, for the entire property, shown below: Date Demand September 14 Unconstrained Demand over 100% September 21 Unconstrained Demand = 100% Based on this Week-over-Week variance in demand, should the property yield up, lower, or keep the rates the same for the yieldable rates? A. Keep Rates the same B. Yield Up Rates C. Lower Rates",
+      "definition": "A. Keep Rates the same"
+    },
+    {
+      "term": "Monitoring Demand A 200-room hotel has demand numers for the stay date of November 15, for the entire property, shown below: Date Demand September 23 Unconstrained Demand over 100% September 30 Unconstrained Demand = 90% Based on this Week-over-Week variance in demand, should the property yield up, lower, or keep the rates the same for the yieldable rates? A. Lower Rates B. Keep Rates the same C. Yield Up Rates",
+      "definition": "A. Lower Rates"
+    },
+    {
+      "term": "Monitoring Comp. Set Pricing & Demand On October 19, a 300-room hotel has an unconstrained demand of 90% for the stay date of December 20. All the other competitors in the market are lowering their rates. Based on this information, should the hotel raise or lower rates? A. Keep Rates the same B. Yield Rates Up C. Lower Rates",
+      "definition": "C. Lower Rates"
     }
   ]
 }
