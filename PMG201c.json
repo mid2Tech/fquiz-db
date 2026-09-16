@@ -2323,6 +2323,46 @@
     {
       "term": "A project manager can defend against scope creep with a good ___________! A. Procurement process B. Risk management plan C. Change control process D. Project management plan",
       "definition": "C. Change control process"
+    },
+    {
+      "term": "True or False: A Project is defined as being unique and temporary, with an undefined start and finish. A. False B. True",
+      "definition": "A. False"
+    },
+    {
+      "term": "We discussed three types of matrix organizations, they are: A. Light, Mid-strength and Strong B. Weak, Balanced and Strong C. Weak, Medium Strength and Strong D. Light, Medium and Heavy",
+      "definition": "B. Weak, Balanced and Strong"
+    },
+    {
+      "term": "In a projectized organization: A. Team members are never assigned to the project full time. B. The project manager acts as manager of the team. C. A project manager is not assigned to the team. D. The functional manager has all of the power.",
+      "definition": "B. The project manager acts as manager of the team."
+    },
+    {
+      "term": "True or False: The best organization to use to run a project will always be the projectized organization. A. True B. False",
+      "definition": "B. False"
+    },
+    {
+      "term": "The five project management process groups as described in the PMBOK® Guide and discussed in the preceding lesson are: A. Initiating, planning, executing, monitoring and controlling, closing B. Define, measure, analyze, improve, control C. Kickoff, requirements, plan, schedule, control D. Requirements, design, development, testing, implementation",
+      "definition": "A. Initiating, planning, executing, monitoring and controlling, closing"
+    },
+    {
+      "term": "The three components of the triple constraint are: A. Scope, Performance, Cost B. Scope, Quality, Cost C. Scope, Performance, Time D. Scope, Cost, Time",
+      "definition": "D. Scope, Cost, Time"
+    },
+    {
+      "term": "You have finished planning and have begun executing the project when the client asks if you would add some important features to the product of the project. How are the triple constraints affected? A. Adding features will require additional cost but not time B. Scope and quality would be affected but not cost C. Time and cost may both be affected D. Cost must remain constant because resources are limited",
+      "definition": "C. Time and cost may both be affected"
+    },
+    {
+      "term": "The primary role of the project manager is: A. Measuring performance B. Project initiation C. Communication D. Distributing work packages",
+      "definition": "C. Communication"
+    },
+    {
+      "term": "As discussed in the preceding lesson, The PMBOK® Guide knowledge areas that have processes in the Initiating process group are: A. Project Integration Management and Project Quality Management B. Project Integration Management and Project Time Management C. Project Integration Management and Project Stakeholder Management D. Project Integration Management and Project Scope Management",
+      "definition": "C. Project Integration Management and Project Stakeholder Management"
+    },
+    {
+      "term": "As discussed in the preceding lesson, The PMBOK® Guide describes 10 Project Management Knowledge Areas. Identify 3 out of the 10: A. Cost, Scope, Time B. Contracts, Process, Risk C. Quality, Process, Scope D. Cost, Integration, Process",
+      "definition": "A. Cost, Scope, Time"
     }
   ]
 }
