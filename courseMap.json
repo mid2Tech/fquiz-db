@@ -4,25 +4,25 @@
     "related": []
   },
    "AET102c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/aet102c"
     ]
   },
   "AID301c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "AIG202c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "BDI301c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "BDI302c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/big-data-introduction",
       "/big-data-management",
@@ -32,7 +32,7 @@
     ]
   },
   "BCJ201c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/brand-identity-strategy",
       "/brand-and-content-marketing",
@@ -41,7 +41,7 @@
     ]
   },
   "FIN306c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/accounting-information-system",
       "/asset-measurement-disclosure",
@@ -51,19 +51,19 @@
     ]
   },
   "CMC201c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "CRY303c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "CHN132c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "DWP301c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/introduction-to-cloud",
       "/introduction-to-web-development-with-html-css-javacript",
@@ -80,7 +80,7 @@
     ]
   },
   "DXE291c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/qun-l-nh-nc-v-hnh-chnh-cng",
       "/dxe291-3",
@@ -89,31 +89,31 @@
     ]
   },
   "ELP321c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "ELP311c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "ECC301c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "ENG302c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "EBC301c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "ENM221c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "ENW492c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/grammar-punctuation",
       "/getting-started-with-essay-writing",
@@ -123,15 +123,15 @@
     ]
   },
   "EPE301c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "FRS401c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "HOM301c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": [
      "/hotel-distribution",
       "/fundamentals-of-revenue-management",
@@ -141,7 +141,7 @@
     ]
   },
   "HRM201c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/human-resources-management-capstone",
       "/compensation-management",
@@ -151,7 +151,7 @@
     ]
   },
   "ITA203c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/is-it-governance",
       "/analysis-for-business-systems",
@@ -160,11 +160,11 @@
     ]
   },
   "ITB302c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "ITE302c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/promote-ethical-data-driven-technologies",
       "/ethical-frameworks-action",
@@ -176,7 +176,7 @@
     ]
   },
   "ITE303c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/ai-algorithm-limitations",
       "/ai-data-bias",
@@ -185,7 +185,7 @@
     ]
   },
   "IFT201c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/introduction-to-futures-thinking",
       "/forecasting-skills",
@@ -195,7 +195,7 @@
     ]
   },
   "LAB221c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": [
       "https://www.coursera.org/learn/java-programming/assignment-submission/vsOTl/calculating-the-perimeter-of-a-shape",
       "https://www.coursera.org/learn/java-programming/assignment-submission/eS8iB/strings-in-java",
@@ -212,7 +212,7 @@
     ]
   },
   "LAW201c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/eu-competition-law",
       "/eu-law-doing-business",
@@ -231,7 +231,7 @@
     ]
   },
   "MKT205c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/intro-international-marketing",
       "/international-marketing-entry-execution",
@@ -242,7 +242,7 @@
     ]
   },
   "MKT208c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/what-is-social",
       "/importance-of-listening",
@@ -253,11 +253,11 @@
     ]
   },
   "NLP301c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "NWC203c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/fundamentals-network-communications",
       "/peer-to-peer-protocols-local-area-networks",
@@ -266,7 +266,7 @@
     ]
   },
   "OBE102c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/visionary-leadership-meaning-maker",
       "/leadership-adapt-your-style",
@@ -275,7 +275,7 @@
     ]
   },
   "PMG201c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/project-planning",
       "/schedule-projects",
@@ -284,23 +284,23 @@
     ]
   },
   "PRP201c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "PRC391c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "PRN292c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "PMG202c": {
-    "status": "ongoing",
+    "status": "hidden",
     "related": []
   },
   "PRC392c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/aws-cloud-technical-essentials",
       "/architecting-solutions-on-aws",
@@ -309,7 +309,7 @@
     ]
   },
   "SEO201c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/search-engine-optimization",
       "/seo-fundamentals",
@@ -319,7 +319,7 @@
     ]
   },
   "SSL101c": {
-    "status": "out soucre",
+    "status": "hidden",
     "related": [
       "/digital-literacy",
       "/problem-solving-skills",
@@ -329,7 +329,7 @@
     ]
   },
   "SWE201c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/software-processes",
       "/agile-software-development",
@@ -338,7 +338,7 @@
     ]
   },
   "DPS201c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/public-speaking",
       "/inform-speech",
@@ -348,7 +348,7 @@
   },
 
   "SYB302c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/innovative-ideas",
       "/innovative-entrepreneur",
@@ -362,7 +362,7 @@
     "related": ["/html", "/introcss", "/javascript", "/responsivedesign"]
   },
   "WDU202c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/visual-elements-user-interface-design",
       "/ux-design-fundamentals",
@@ -371,7 +371,7 @@
     ]
   },
   "WDU203c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "/introtoux-principles-and-processes",
       "/understanding-user-needs",
@@ -382,7 +382,7 @@
     ]
   },
   "MCO201c": {
-    "status": "done",
+    "status": "completed",
     "related": [
       "https://www.coursera.org/learn/communicate-with-impact/assignment-submission/O4sBE/week-1-quiz"
     ]
