@@ -907,6 +907,106 @@
     {
       "term": "Does this student's paragraph use good sentence variety?My homestay is beautiful. The back yard is natural and green. There is a light green table. It has flowers in the middle. The inside of the house has a modern living room. There is a television hanging on the wall. There are three speakers on the ceiling which make you feel you are in the theater. The comfortable kitchen is located next to the livingroom. The kitchen has a really nice shape. It looks like a restaurant's kitchen. My organized room is quiet and is located in front of the stairs. In all, my homestay's house looks nice. | Yes | No",
       "definition": "No"
+    },
+    {
+      "term": "Which underlined word has a mistake? We enjoy riding motorcycles. Modern motorcycles are lighter and faster than they was 30 years ago. A. motorcycles B. enjoy C. years D. was",
+      "definition": "D. was"
+    },
+    {
+      "term": "Which underlined word has a mistake? My mother was mad at me because I had told her I would be home at 6:00, but I come home at 9:00. A. was B. had told C. come D. would",
+      "definition": "C. come"
+    },
+    {
+      "term": "Which underlined word has a mistake? Next year, my family buy a house in Canada. We are going to visit it every summer. A. are going B. We C. in Canada D. buy",
+      "definition": "D. buy"
+    },
+    {
+      "term": "Which underlined word has a mistake? We watched a good movie last night and told our friends about it. Now, they want to see it too. All of us are going to see it again tonight after we are eating dinner. A. told B. are eating C. watched D. are going to see",
+      "definition": "B. are eating"
+    },
+    {
+      "term": "Which underlined word has a mistake? Mary loves to shop, so she left work early today and asked her friend to meet her at the mall. The two of them spending eight hours buying dresses and shoes. A. spending B. asked C. left D. loves",
+      "definition": "A. spending"
+    },
+    {
+      "term": "Which underlined word has a mistake? The dentist told me that my teeth were healthy, but he want me to go back for a check up soon. I will make another appointment next week when I am free. A. will make B. am free C. told D. want",
+      "definition": "D. want"
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. The children sang and danced. B. The children sang, and danced. C. The children, sang and danced.",
+      "definition": "A. The children sang and danced."
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. Tariq and Jordan, joined the soccer game and helped the team win. B. Tariq and Jordan joined the soccer game and helped the team win. C. Tariq and Jordan joined the soccer game, and helped the team win.",
+      "definition": "B. Tariq and Jordan joined the soccer game and helped the team win."
+    },
+    {
+      "term": "Which sentence uses commas correctly? A. Jane watched a movie, but Steve read a book. B. Jane watched a movie, but Steve, read a book. C. Jane watched a movie but Steve, read a book.",
+      "definition": "A. Jane watched a movie, but Steve read a book."
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. The test was difficult however we knew all of the answers. B. The test was difficult, but we knew all of the answers. C. The test was difficult but we knew all of the answers.",
+      "definition": "B. The test was difficult, but we knew all of the answers."
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. Michael and Sam, gave Paul and me some tips on how to throw a basketball but didn't help with our form. B. Michael and Sam gave Paul and me some tips on how to throw a basketball, but didn't help with our form. C. Michael and Sam gave Paul and me some tips on how to throw a basketball, but they didn't help with our form.",
+      "definition": "C. Michael and Sam gave Paul and me some tips on how to throw a basketball, but they didn't help with our form."
+    },
+    {
+      "term": "Is the following sentence punctuated correctly? Frank bought a new dog and was happy that it didn't bark at night. A. Yes B. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly? When my husband gets home from work we will BBQ some steaks on the grill. A. Yes B. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly? Jordan is a happy baby, because his parents play with him all the time. A. Yes B. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly? My brother likes tacos, but my sister does not like them. A. Yes B. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly? The doctor told Mr. Green that he needs to eat more vegetables and get more exercise since his blood pressure is high. A. Yes B. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly? You want to go out tonight, however, I want to stay home and watch TV. A. Yes B. No",
+      "definition": "B. No"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly? We can go to the beach and swim after we have lunch. A. Yes B. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Is the following sentence punctuated correctly? Since we don't have much money, we should not plan a big vacation this year. A. Yes B. No",
+      "definition": "A. Yes"
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. You should take a sandwich with you in case you don't have time to stop at a restaurant. B. You should take a sandwich with you in case you don't have time, to stop at a restaurant. C. You should take a sandwich with you, in case you don't have time to stop at a restaurant.",
+      "definition": "A. You should take a sandwich with you in case you don't have time to stop at a restaurant."
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. The test was difficult because, we didn't have much time to answer all of the questions. B. The test was difficult because we didn't have much time to answer all of the questions. C. The test was difficult, because we didn't have much time to answer all of the questions.",
+      "definition": "B. The test was difficult because we didn't have much time to answer all of the questions."
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. We will buy a new sofa, and table if there is a good sale. B. We will buy a new sofa and table if there is a good sale. C. We will buy a new sofa and table, if there is a good sale.",
+      "definition": "B. We will buy a new sofa and table if there is a good sale."
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. Michael and Sam gave Paul and me some tips on how to throw a basketball since we needed some help with our form. B. Michael and Sam gave Paul and me some tips on how to throw a basketball, since we needed some help with our form. C. Michael and Sam, gave Paul and me some tips on how to throw a basketball since we needed some help with our form.",
+      "definition": "A. Michael and Sam gave Paul and me some tips on how to throw a basketball since we needed some help with our form."
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. The girls know, how to fix cars and play basketball, but the boys don't know how to do those things. B. The girls know how to fix cars and play basketball, but the boys don't know how to do those things. C. The girls know how to fix cars, and play basketball, but the boys don't know how to do those things.",
+      "definition": "B. The girls know how to fix cars and play basketball, but the boys don't know how to do those things."
+    },
+    {
+      "term": "Which sentence is punctuated correctly? A. I went to get a loan from the bank; they told me that my credit was good. B. I went to get a loan from the bank they told me that my credit was good. C. I went to get a loan from the bank, they told me that my credit was good.",
+      "definition": "A. I went to get a loan from the bank; they told me that my credit was good."
     }
   ]
 }
