@@ -1,16 +1,16 @@
 {
   "strictQuizMode": false,
   "quizSrc": [
-    {
-      "term": "Question 1The evolution of hotel chains between 1920 and 1950 was driven by:A. The emergence of loyalty programsB. Declining travel costsC. The development of the air, road and rail networkD. A reduction in operating costs",
-      "definition": "C. The development of the air, road and rail network"
+     {
+      "term": "The evolution of hotel chains between 1920 and 1950 was driven by: A. The emergence of loyalty programs B. A reduction in operating costs C. Declining travel costs D. the development of the air, road and rail network",
+      "definition": "D. the development of the air, road and rail network"
     },
     {
-      "term": "Question 2What are the four key players in the hotel industry value chain?A. Private equity fundsB. ConsultantsC. DistributorsD. EmployeesE. OwnersF. OperatorsG. Brands",
-      "definition": "C. Distributors  E. Owners  F. Operators  G. Brands"
+      "term": "What are the four key players in the hotel industry value chain? A. Operators B. Employees C. Brands D. Distributors E. Consultants F. Owners G. Private equity funds",
+      "definition": "A. Operators C. Brands D. Distributors F. Owners"
     },
     {
-      "term": "Question 3In order to be able to scale quickly, hotel chains use franchising and management services contractsA. TrueB. False",
+      "term": "In order to be able to scale quickly, hotel chains use franchising and management services contracts A. True B. False",
       "definition": "A. True"
     },
     {
