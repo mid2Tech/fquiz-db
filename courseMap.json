@@ -220,7 +220,7 @@
     ]
   },
   "MSM201c": {
-    "status": "out source",
+    "status": "hidden",
     "related": [
       "/social-media-marketing-introduction",
       "/social-media-management",
@@ -358,7 +358,7 @@
   },
 
   "WED201c": {
-    "status": "out source",
+    "status": "hidden",
     "related": ["/html", "/introcss", "/javascript", "/responsivedesign"]
   },
   "WDU202c": {
